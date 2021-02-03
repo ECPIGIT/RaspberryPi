@@ -5,8 +5,9 @@ Official Raspberry Pi Documentation: https://github.com/raspberrypi/documentatio
 Getting Started:
 Students will get a single SD card that is pre-loaded with an updated version of the Raspberry Pi OS.
 
-## **Future Directories**</br>
-Getting started</br>
+## **Directories**</br>
+Get started</br>
+Resources</br>
 Projects</br>
 Competitions</br>
 
