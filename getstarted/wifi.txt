@@ -1,5 +1,0 @@
-# Wifi Set-up with Splash screen
-
-In the terminal type the following "sudo apt install chromium broswer"
-Run the command
-Type "chromium-broswer"
