@@ -13,6 +13,3 @@ Competitions</br>
 
 ## **Upcoming changes**</br>
 Need to add the initial video
-
-
-## This is an update 
