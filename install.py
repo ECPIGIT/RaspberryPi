@@ -28,7 +28,8 @@ os.system('pip3 install pynput')
 os.system('sudo apt install samba samba-common') #yes then no
 os.system('sudo apt install fswebcam -y')
 os.system('sudo usermod -a -G video pi')
-
+os.system('pip3 install gpiozero')
+os.system('sudo apt-get install mpg321 -y')
 '''
 Set date/time: %a, %b %d, %Y  |  %r
 Chromium: Set homepages to the following two:
