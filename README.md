@@ -6,10 +6,6 @@ Getting Started:
 Students will get a single SD card that is pre-loaded with an updated version of the Raspberry Pi OS.
 
 ## **Directories**</br>
-Get started</br>
-Resources</br>
-Projects</br>
-Competitions</br>
+autostart</br>
 
-## **Upcoming changes**</br>
-Need to add the initial video
+
