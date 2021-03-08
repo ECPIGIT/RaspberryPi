@@ -1,3 +1,3 @@
 # The Pi's are coming!
 
-Get ready for the next challenge
+![Pi Day 2021](https://github.com/ECPIGIT/RaspberryPi/competitions/PiDay2021.png)
