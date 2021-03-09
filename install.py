@@ -22,7 +22,7 @@ Update and install dependencies
 os.system('sudo apt update')
 os.system('sudo apt full-upgrade')
 os.system('pip3 install gTTS')
-os.system('cd .config/ && mkdir autostart/ && mkdir /home/pi/ECPI && mkdir /home/pi/ECPI/Motion && mkdir /home/pi/ECPI/Storage && mkdir /home/pi/ECPI/.autostart')
+os.system('cd .config/ && mkdir autostart/ && mkdir /home/pi/ECPI && mkdir /home/pi/ECPI/Motion && mkdir /home/pi/ECPI/Storage && mkdir /home/pi/.ECPIautostart')
 os.system('sudo apt install rpi-imager -y')
 os.system('pip3 install pynput')
 os.system('sudo apt install samba samba-common') #yes then no
@@ -40,6 +40,6 @@ https://projects.raspberrypi.org/en
 '''
 NumLock on Startup
 '''
-os.system('cd /home/pi/ECPI/.autostart')
+os.system('cd /home/pi/.ECPIautostart')
 os.system('chmod +x numlock.py')
 
