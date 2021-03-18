@@ -1,4 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=NumLock
-Exec=/usr/bin/python3 /home/pi/ECPI/.startup/numlock.py
