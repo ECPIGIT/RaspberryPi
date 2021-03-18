@@ -1,11 +1,6 @@
 # Raspberry Pi Resources for students
 
-Official Raspberry Pi Documentation: https://github.com/raspberrypi/documentation
+Files needed for Raspberry Pi projects have been moved to a new repo [here](https://github.com/captexcel/RaspberryPi).
 
-Getting Started:
-Students will get a single SD card that is pre-loaded with an updated version of the Raspberry Pi OS.
-
-## **Directories**</br>
-autostart</br>
 
 
